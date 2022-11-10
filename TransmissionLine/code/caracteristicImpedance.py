@@ -1,7 +1,11 @@
+#!/usr/bin/env python3
+
 __author__ = "Frederic Schenker"
+__fileName__ = "caracteristicImpedance.py"
 __copyright__ = "Copyright 2022"
 __license__ = "GPL"
 __version__ = "1.0.0"
+__date__ = "10 Nov. 2022"
 __maintainer__ = "Frederic Schenker"
 __email__ = "schenker.f@bluewin.ch"
 __status__ = "Production"
