@@ -55,3 +55,7 @@ $Q$ | Reactive Power | [var]
 (From: [PFC Tutorial](https://www.electronics-tutorials.ws/accircuits/power-factor-correction.html)) -> PFC is a technique which uses capacitors or inductances in order to reduce or increase the reactive power respectively.
 
 The objective is to set the PF as close as possible to 1 (for a power delivery device). This allows to reduce the loss and improve voltage regulation at the load ([Power factor - Wikipedia](https://en.wikipedia.org/wiki/Power_factor)). 
+
+
+Check this link, some good explanation.
+https://www.monolithicpower.com/en/power-factor-correction
